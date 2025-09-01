@@ -1,0 +1,41 @@
+header{
+    background-color: #e80a0a;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: ;
+}
+header h1 {
+    margin: 0;
+    font-size: 60;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+nav {
+    background-color: whitesmoke;
+    padding: 5px 10px;
+    text-align: left;
+    color: #e80a0a;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+header div {
+    margin-top: 10px;
+    font-size: 18px;
+    font-style: italic;
+    text-align: right;
+}
+main {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-family: Arial, sans-serif;
+}
